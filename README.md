@@ -8,7 +8,7 @@ Tool to query Bay Area Mashers member list and return all current members' email
 * Save the resulting Google API credential file in `~/.config/gspread/service_account.json`
 * Install the bay-area-mashers-member-export tool 
 
-      pip install git+https://github.com/bay-area-mashers/bay-area-mashers-member-export.git
+      pip install bay-area-mashers-member-export
 
 ## Usage
 
